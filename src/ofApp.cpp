@@ -1,5 +1,7 @@
 #include "ofApp.h"
 
+// TEST FILE AVAILABLE AT http://eightlines.com/media/BRITA_A_FINAL_1.mp4
+
 const int NUM_VIDEOS = 4;
 //const string PATH_ROOT = "/Volumes/WXM/Brita/";
 const string PATH_ROOT = "/Users/administrator/Desktop/BRITA/";
